@@ -1,4 +1,4 @@
-#DistBot
+# DistBot
 
 This is code for a mobile robot running on a RaspberryPi. The it is a two wheeled robot with a omnidirectional whel for stability. It is equipped with a colour camera and an ultrasonic distance sensor.
 
